@@ -1,4 +1,4 @@
-### Hi there 👋
+<!--### Hi there 👋-->
 
 <!--
 **mbernardesp/mbernardesp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+## :information_source: Information
+- <a href="https://www.linkedin.com/in/marcelo-bernardes-pinto/" target="_blank">@Linkedin</a> | <a href="https://github.com/mbernardesp" target="_blank">@Github</a>
+<br/>
+
+## :office: Company
+- **Software Engineering Specialist at [Globo](https://www.globo.com/)**
+- [@Facebook](https://www.facebook.com/globo/) | [@Instagram](https://www.instagram.com/somosglobo/)
+<br/>
